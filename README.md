@@ -2,7 +2,7 @@
 
 Emulador IMSAI 8080 a Teensy 4.1 en modo Serial-only.
 
-Más información en (Minibots)[https://minibots.wordpress.com/2026/04/06/emulador-de-imsai-8080-en-teensy-4-1/]
+Más información en [Minibots](https://minibots.wordpress.com/2026/04/06/emulador-de-imsai-8080-en-teensy-4-1/)
 
 ## Estado actual
 - Proyecto PlatformIO para Teensy 4.1.
