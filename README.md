@@ -17,4 +17,4 @@ Más información en [Minibots](https://minibots.wordpress.com/2026/04/06/emulad
 3. Abrir monitor serie a 115200.
 4. Esperar banner y prompt del monitor IMSAI.
 
-Proyecto basaso en [imsaisim de z80pack](https://github.com/udo-munk/z80pack/tree/master/imsaisim)
+Proyecto basado en [imsaisim de z80pack](https://github.com/udo-munk/z80pack/tree/master/imsaisim)
